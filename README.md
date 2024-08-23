@@ -1,1 +1,1 @@
-Hi, I write code, sometimes.
+Hi, I write code sometimes, but mostly I read it.
