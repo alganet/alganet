@@ -8,6 +8,13 @@ Read my blog: https://alganet.github.io/blog.html
 
 ---
 
+### Assorted Projects
+
+ - [quick-beats](http://github.com/alganet/quick-beats) is a resposive drum machine webapp. You can see it live [here](https://alganet.github.io/quick-beats/).
+ - [spiral](https://github.com/alganet/spiral) is a visual exploration of prime number density and patterns. You can browse it [here](https://alganet.github.io/spiral/).
+ - [lint-http](https://github.com/alganet/lint-http) is an experimental linter for HTTP that works as a proxy in Rust.
+ - [apywire](https://github.com/alganet/apywire) explores the intersection of dependency injection and declarative configuration for Python.
+
 ### Portable Shell Scripting
 
 I'm working on shell-versions, shell-docs and coral. Those three projects explore the portable shell from different angles:
