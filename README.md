@@ -13,7 +13,7 @@ Read my blog: https://alganet.github.io/blog.html
  - [quick-beats](http://github.com/alganet/quick-beats) is a resposive drum machine webapp. You can see it live [here](https://alganet.github.io/quick-beats/).
  - [spiral](https://github.com/alganet/spiral) is a visual exploration of prime number density and patterns. You can browse it [here](https://alganet.github.io/spiral/).
  - [lint-http](https://github.com/alganet/lint-http) is an experimental linter for HTTP that works as a proxy in Rust.
- - [apywire](https://github.com/alganet/apywire) explores the intersection of dependency injection and declarative configuration for Python.
+ - [apywire](https://github.com/alganet/apywire) explores the intersection of [dependency injection and declarative configuration](https://alganet.github.io/blog/2026-02-12-22-Building-a-Modular-Application-with-apywire-and-starlette.html) for Python.
 
 ### Portable Shell Scripting
 
