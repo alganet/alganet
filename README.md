@@ -14,6 +14,7 @@ Read my blog: https://alganet.github.io/blog.html
  - [spiral](https://github.com/alganet/spiral) is a visual exploration of prime number density and patterns. You can browse it [here](https://alganet.github.io/spiral/).
  - [lint-http](https://github.com/alganet/lint-http) is an experimental linter for HTTP that works as a proxy in Rust.
  - [apywire](https://github.com/alganet/apywire) explores the intersection of [dependency injection and declarative configuration](https://alganet.github.io/blog/2026-02-12-22-Building-a-Modular-Application-with-apywire-and-starlette.html) for Python.
+ - [phasm](http://github.com/alganet/phasm) bundles PHP for WASM to run it directly in browsers. See a demo [here](https://alganet.github.io/phasm/).
 
 ### Portable Shell Scripting
 
