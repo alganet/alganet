@@ -32,7 +32,7 @@ I also did a [C compiler that produces x64 linux binaries in pure shell](https:/
 
 One of my key interests is developing more awareness and examples of practical polyglot programming.
 
- - [neutrino](https://github.com/alganet/neutrino): a super-lightweight portable webview that is written as a *polyglot script*.
+ - [neutrino](https://github.com/alganet/neutrino): a super-lightweight Electron alternative that is written as a *polyglot script*.
  - [PHL](https://github.com/alganet/PHL): a refactor of an older PHP-compatible engine that explores [*polyglot build systems*](https://alganet.github.io/blog/2025-12-17-07-Polyglot-Makefiles.html).
 
 My previous work on this arena goes back years to [AppPackPrototype](https://github.com/alganet/AppPackPrototype) and [small polyglot launchers](https://gist.github.com/alganet/2c1c004d0580e8d92cc1c167fa4f2632).
