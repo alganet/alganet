@@ -26,7 +26,7 @@ I'm working on shell-versions, shell-docs and coral. Those three projects explor
 
 This work goes back several years to my first entry in this problem, [workshop](http://github.com/Mosai/workshop).
 
-I've been also exploring the concept of a [pure portable shell parser written in shell itself](https://gist.github.com/alganet/23df53c567b8a0bf959ecbc7b68997c0).
+I also did a [C compiler that produces x64 linux binaries in pure shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19), to exercise portability in complex programs.
 
 ### Polyglot Programming
 
