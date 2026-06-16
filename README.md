@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/brazil_public/alganet.svg)](https://user-badge.committers.top/brazil_public/alganet)
+
 I'm a software developer based in the state of São Paulo, Brazil.
 
 I like to explore weird or unusual problems, and work on them for a long time.
@@ -21,6 +23,7 @@ Read my blog: https://alganet.github.io/blog.html
 I'm working on shell-versions, shell-docs and coral. Those three projects explore the portable shell from different angles:
 
  - [shell-versions](http://github.com/alganet/shell-versions): Aims to provide a solid environment for testing portable shell scripts.
+ - [tuish](https://github.com/alganet/tuish): Fast, modern TUI toolkit written in pure shell using cross-shell techniques (bash/zsh/ksh/mksh/busybox).
  - [shell-docs](https://github.com/alganet/shell-docs): An MDN-docs style project to deeply document shell interpreter differences and compatibility.
  - [coral](https://github.com/alganet/coral): A reusable, unified portable shell library.
 
@@ -36,6 +39,13 @@ One of my key interests is developing more awareness and examples of practical p
  - [PHL](https://github.com/alganet/PHL): a refactor of an older PHP-compatible engine that explores [*polyglot build systems*](https://alganet.github.io/blog/2025-12-17-07-Polyglot-Makefiles.html).
 
 My previous work on this arena goes back years to [AppPackPrototype](https://github.com/alganet/AppPackPrototype) and [small polyglot launchers](https://gist.github.com/alganet/2c1c004d0580e8d92cc1c167fa4f2632).
+
+### Bootstrapping
+
+I'm quite new to bootstrapping.
+
+ - [builder-hex0-arch](https://github.com/alganet/builder-hex0-arch): Ports of builder-hex0 to riscv64 and aarch64.
+ - [abuild](https://github.com/alganet/abuild): Bootstrap images able to reproduce themselves (early cycle reproducibility).
 
 ### Reusable PHP Libraries
 
