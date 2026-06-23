@@ -8,6 +8,8 @@ I also enjoy more mundane typical work such as developing backend and frontend s
 
 Read my blog: https://alganet.github.io/blog.html
 
+Sponsor me: https://github.com/sponsors/alganet/ https://www.patreon.com/cw/alganet 
+
 ---
 
 ### Assorted Projects
@@ -46,6 +48,7 @@ I'm quite new to bootstrapping.
 
  - [builder-hex0-arch](https://github.com/alganet/builder-hex0-arch): Ports of builder-hex0 to riscv64 and aarch64.
  - [abuild](https://github.com/alganet/abuild): Bootstrap images able to reproduce themselves (early cycle reproducibility).
+ - [hs](https://github.com/alganet/hs): A small posix-ish shell for bootstrap environments.
 
 ### Reusable PHP Libraries
 
